@@ -1,7 +1,4 @@
 # Data-Visualization-and-Analysis
-Here's an updated README draft that includes the details from the provided Python script and additional project files:
-
----
 
 # Graduation Project: Urban Waste Analysis in Israeli Cities
 
