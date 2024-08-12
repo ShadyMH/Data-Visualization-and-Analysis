@@ -1,5 +1,3 @@
-# Data-Visualization-and-Analysis
-
 # Graduation Project: Urban Waste Analysis in Israeli Cities
 
 ## Project Overview
